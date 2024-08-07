@@ -12,6 +12,7 @@ Includes: preliminary analysis, cluster analysis, factor analysis and correspond
 Programs used: RStudio, Statistica
 
 Files:
+
 AWCJ projekt.pdf - A report containing the results of all analysis, visualizations and conclusions
 
 Jaki powinien być idealny polityk - plakat.png - poster presenting the results of the report
