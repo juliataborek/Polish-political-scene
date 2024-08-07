@@ -14,19 +14,25 @@ Project implemented during master's studies, March 2024 - June 2024
 ## Files:
 
 - *AWCJ projekt.pdf*
+  
   A report containing the results of all analysis, visualizations and conclusions
 
 - *Jaki powinien być idealny polityk - plakat.png*
+  
   Poster presenting the results of the report
 
 - *awcj project.R*
+  
   R file containing preliminary analysis, among others: average ratings of politicians, analysis of individual questions
 
 - *Politycy AS.R*
+  
   R file containing cluster analysis with jaccard distance, sokal-michener distance, gower distance
 
 - *Politycy AC.R*
+  
   R file containing factor analysis 
 
 - *Politycy AK.R*
+  
   R file containing correspondence analysis
